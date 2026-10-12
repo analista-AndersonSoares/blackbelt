@@ -18,9 +18,3 @@ A aplicação está dividida de acordo com as fases da metodologia Lean Six Sigm
 * **Manipulação de Dados:** `Pandas`, `NumPy`
 * **Análise Estatística:** `SciPy`, `Statsmodels`
 * **Visualização de Dados:** `Plotly`, `Matplotlib`, `Seaborn`
-
-## 🚀 Como Executar o Projeto Localmente
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_UTILIZADOR/NOME_DO_REPOSITORIO.git](https://github.com/SEU_UTILIZADOR/NOME_DO_REPOSITORIO.git)
